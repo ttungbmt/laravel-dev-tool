@@ -20,8 +20,7 @@
         "spatie/laravel-package-tools": "^1.9.2",
         "illuminate/contracts": "^9.0",
         "barryvdh/laravel-debugbar": "^3.7",
-        "barryvdh/laravel-ide-helper": "^2.12",
-        "laravel/telescope": "^4.9"
+        "barryvdh/laravel-ide-helper": "^2.12"        
     },
     "require-dev": {
         "laravel/pint": "^1.0",
